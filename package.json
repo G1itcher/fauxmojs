@@ -34,8 +34,10 @@
     "boom": "^4.2.0",
     "debug": "^2.2.0",
     "hapi": "^15.2.0",
+    "ip": "^1.1.4",
     "js2xmlparser": "^2.0.2",
     "lodash": "^4.16.4",
+    "printf": "^0.2.5",
     "uuid": "^2.0.3"
   },
   "devDependencies": {
