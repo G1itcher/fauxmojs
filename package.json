@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dsandor/fauxmojs.git"
+    "url": "git+https://github.com/g1itcher/fauxmojs.git"
   },
   "keywords": [
     "alexa",
@@ -25,9 +25,9 @@
   "author": "David Sandor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dsandor/fauxmojs/issues"
+    "url": "https://github.com/g1itcher/fauxmojs/issues"
   },
-  "homepage": "https://github.com/dsandor/fauxmojs#readme",
+  "homepage": "https://github.com/g1itcher/fauxmojs#readme",
   "dependencies": {
     "aguid": "^1.0.4",
     "async": "^2.1.2",
@@ -35,7 +35,6 @@
     "debug": "^2.2.0",
     "hapi": "^15.2.0",
     "ip": "^1.1.4",
-    "js2xmlparser": "^2.0.2",
     "lodash": "^4.16.4",
     "printf": "^0.2.5",
     "uuid": "^2.0.3"
